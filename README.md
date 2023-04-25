@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Vagrant Jenkins build Build Status</title>
-  </head>
+  
   <body>
     <h1><img src="https://img.icons8.com/color/48/000000/jenkins.png"/> Vagrant Jenkins build Build Status</h1>
     <h2><img src="https://img.icons8.com/color/48/000000/ubuntu.png"/> Run latest Jenkins instance on Ubuntu 16.04 LTS using Vagrant</h2>
-php
-Copy code
+
 <h3>Prerequisites</h3>
 <ul>
   <li><img src="https://img.icons8.com/color/48/000000/virtualbox.png"/> VirtualBox</li>
