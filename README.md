@@ -6,6 +6,7 @@
     <h2><img src="https://img.icons8.com/color/48/000000/ubuntu.png"/> Run latest Jenkins instance on Ubuntu 16.04 LTS using Vagrant</h2>
 
 <h3>Prerequisites</h3>
+    
 <ul>
   <li><img src="https://img.icons8.com/color/48/000000/virtualbox.png"/> VirtualBox</li>
   <li><img src="https://img.icons8.com/color/48/000000/vagrant.png"/> Vagrant</li>
@@ -13,8 +14,9 @@
 
 <h3>Installation</h3>
 <p>Build the Vagrant box:</p>
+    
 <code>vagrant up</code>
-
+<br>
 <p>To access the Jenkins server:</p>
 <ul>
   <li><code>http://localhost:8080</code></li>
