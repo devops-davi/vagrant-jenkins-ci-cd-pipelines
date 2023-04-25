@@ -9,7 +9,7 @@
     
 <ul>
   <li><img src="https://img.icons8.com/color/48/000000/virtualbox.png"/> VirtualBox</li>
-  <li><img src="https://img.icons8.com/windows/32/000000/vagrant.png"/> Vagrant</li>
+  <li><img src="https://img.icons8.com/officexs/16/000000/vagrant.png"/> Vagrant</li>
 </ul>
 
 <h3>Installation</h3>
